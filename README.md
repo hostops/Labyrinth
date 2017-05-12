@@ -1,2 +1,2 @@
-# Labirynth
-Labirynth game
+# Labyrinth
+Labyrinth game
